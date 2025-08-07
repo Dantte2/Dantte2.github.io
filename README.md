@@ -1,8 +1,26 @@
-<p align="center">
-  <img width="900" height="250" src="https://media.licdn.com/dms/image/v2/C560BAQG2SohbJh1I-Q/company-logo_200_200/company-logo_200_200/0/1630572503110/hellolimited_logo?e=2147483647&v=beta&t=P0o7qCQHZXcqHCspHyctBSDPmPPiYMBWLNaJ4rTHchk">
-</p>
+# 👋 Hi, I'm Alex
 
-<a href="https://www.instagram.com/dinosauruss977/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+I'm a full-stack developer who loves building web apps.
+
+## 🔧 Skills
+- JavaScript / TypeScript
+- React, Node.js
+- MongoDB, PostgreSQL
+
+## 📂 Projects
+
+### [My Portfolio Website](https://alexdev.github.io)
+> A personal site built with HTML/CSS/JS.
+
+### [Task Tracker App](https://github.com/alexdev/task-tracker)
+> Full-stack task manager using React + Node.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true)
+
+## 📫 Reach Me At
+- Email: alex@example.com
+- LinkedIn: [linkedin.com/in/alexdev](https://linkedin.com/in/alexdev)
+
 
